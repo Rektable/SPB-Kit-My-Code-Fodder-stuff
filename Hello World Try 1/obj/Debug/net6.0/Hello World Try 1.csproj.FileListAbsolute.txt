@@ -1,0 +1,14 @@
+D:\Program Files (x86)\VisualStudioRepos\Hello World Try 1\Hello World Try 1\bin\Debug\net6.0\Hello World Try 1.exe
+D:\Program Files (x86)\VisualStudioRepos\Hello World Try 1\Hello World Try 1\bin\Debug\net6.0\Hello World Try 1.deps.json
+D:\Program Files (x86)\VisualStudioRepos\Hello World Try 1\Hello World Try 1\bin\Debug\net6.0\Hello World Try 1.runtimeconfig.json
+D:\Program Files (x86)\VisualStudioRepos\Hello World Try 1\Hello World Try 1\bin\Debug\net6.0\Hello World Try 1.dll
+D:\Program Files (x86)\VisualStudioRepos\Hello World Try 1\Hello World Try 1\bin\Debug\net6.0\Hello World Try 1.pdb
+D:\Program Files (x86)\VisualStudioRepos\Hello World Try 1\Hello World Try 1\obj\Debug\net6.0\Hello World Try 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files (x86)\VisualStudioRepos\Hello World Try 1\Hello World Try 1\obj\Debug\net6.0\Hello World Try 1.AssemblyInfoInputs.cache
+D:\Program Files (x86)\VisualStudioRepos\Hello World Try 1\Hello World Try 1\obj\Debug\net6.0\Hello World Try 1.AssemblyInfo.cs
+D:\Program Files (x86)\VisualStudioRepos\Hello World Try 1\Hello World Try 1\obj\Debug\net6.0\Hello World Try 1.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\VisualStudioRepos\Hello World Try 1\Hello World Try 1\obj\Debug\net6.0\Hello World Try 1.dll
+D:\Program Files (x86)\VisualStudioRepos\Hello World Try 1\Hello World Try 1\obj\Debug\net6.0\refint\Hello World Try 1.dll
+D:\Program Files (x86)\VisualStudioRepos\Hello World Try 1\Hello World Try 1\obj\Debug\net6.0\Hello World Try 1.pdb
+D:\Program Files (x86)\VisualStudioRepos\Hello World Try 1\Hello World Try 1\obj\Debug\net6.0\Hello World Try 1.genruntimeconfig.cache
+D:\Program Files (x86)\VisualStudioRepos\Hello World Try 1\Hello World Try 1\obj\Debug\net6.0\ref\Hello World Try 1.dll
