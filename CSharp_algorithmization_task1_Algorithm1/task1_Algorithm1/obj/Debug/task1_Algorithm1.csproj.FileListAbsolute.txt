@@ -1,0 +1,7 @@
+D:\Program Files (x86)\VisualStudioRepos\task1_Algorithm1\task1_Algorithm1\obj\Debug\task1_Algorithm1.csproj.AssemblyReference.cache
+D:\Program Files (x86)\VisualStudioRepos\task1_Algorithm1\task1_Algorithm1\obj\Debug\task1_Algorithm1.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\VisualStudioRepos\task1_Algorithm1\task1_Algorithm1\bin\Debug\task1_Algorithm1.exe.config
+D:\Program Files (x86)\VisualStudioRepos\task1_Algorithm1\task1_Algorithm1\bin\Debug\task1_Algorithm1.exe
+D:\Program Files (x86)\VisualStudioRepos\task1_Algorithm1\task1_Algorithm1\bin\Debug\task1_Algorithm1.pdb
+D:\Program Files (x86)\VisualStudioRepos\task1_Algorithm1\task1_Algorithm1\obj\Debug\task1_Algorithm1.exe
+D:\Program Files (x86)\VisualStudioRepos\task1_Algorithm1\task1_Algorithm1\obj\Debug\task1_Algorithm1.pdb
