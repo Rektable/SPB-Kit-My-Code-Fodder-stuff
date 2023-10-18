@@ -1,0 +1,7 @@
+C:\Users\stud\source\repos\RektableApp1\RektableApp1\obj\Debug\RektableApp1.csprojAssemblyReference.cache
+C:\Users\stud\source\repos\RektableApp1\RektableApp1\obj\Debug\RektableApp1.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\RektableApp1\RektableApp1\bin\Debug\RektableApp1.exe.config
+C:\Users\stud\source\repos\RektableApp1\RektableApp1\bin\Debug\RektableApp1.exe
+C:\Users\stud\source\repos\RektableApp1\RektableApp1\bin\Debug\RektableApp1.pdb
+C:\Users\stud\source\repos\RektableApp1\RektableApp1\obj\Debug\RektableApp1.exe
+C:\Users\stud\source\repos\RektableApp1\RektableApp1\obj\Debug\RektableApp1.pdb
